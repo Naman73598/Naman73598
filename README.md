@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naman Agrahari</h1>
 
 ![ezgif com-resize (1)](https://github.com/Naman73598/Naman73598/assets/78019442/65fbb05a-a89b-489b-9f27-6458765d1a07)
@@ -60,6 +61,12 @@
   </a>
 </p>
 
+<!--Check out my badges-->
+Check out Badges at @https://www.holopin.io/@naman73598
+[![An image of @naman73598's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman73598)](https://holopin.io/@naman73598)
+
+
+    
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
