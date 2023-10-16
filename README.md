@@ -69,8 +69,8 @@ Check out Badges at @https://www.holopin.io/@naman73598
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="613ecf45-0781-446e-9945-f9aac2095a59" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p style="display:block;" align="center">
-    <img align="center" src="" alt="Check out my Microsoft Certifications" width="100%"/>
-<!--   https://raw.githubusercontent.com/bimal-parajuli/bimal-parajuli/main/assets/azure_3_certifications_merged.png -->
+    <img align="center" src="https://github.com/Naman73598/Naman73598/blob/main/assets/microsoft-certified-security-compliance-and-identity-fundamentals.png?raw=true" alt="Check out my Microsoft Certifications" width="100%"/>
+
     <a href="https://www.credly.com/badges/613ecf45-0781-446e-9945-f9aac2095a59/public_url">Click to View</a>
 </p>
 
