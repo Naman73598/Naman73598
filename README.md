@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naman Agrahari</h1>
 
 ![ezgif com-resize (1)](https://github.com/Naman73598/Naman73598/assets/78019442/65fbb05a-a89b-489b-9f27-6458765d1a07)
@@ -7,13 +6,12 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***Focused***😉 <br>
-✔ I’m currently Developing **Event portal**  @VITVellore<br>
-✔ I’m currently learning  **MongoDb**, **ExpressJS**, **ReactJS** & **NodeJS**<br>
+✔ I’m currently Developing **ML projects**  @VITVellore<br>
+✔ I’m currently learning  **MongoDb**, **NodeJS**, **ML** & **Tableau**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**...<br>
 ✔ I’m looking for help for learning **DevOps**...<br>
-✔ Don't hesitate to ask me anything you want—I'm ready to lend a hand, but only if I'm the one calling the shots!😉<br>
 ✔ Reach me : [`Click To Mail!`](mailto:nagrahari31@gmail.com) or copy **`nagrahari31@gmail.com`**<br>
-✔ Fun fact : **Learning in progress! I may stumble, I may fumble, but I won't crumble.** <br><br>
+✔ Fun fact : **You only know that part of me, I want you to know** <br><br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -60,23 +58,21 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,jquery,php,mysql,bootstrap,git,github,figma,netlify,linux,matlab,vscode&perline=14" />
   </a>
 </p>
+<br>
+<br>
 
 <!--Check out my badges-->
 Check out Badges at @https://www.holopin.io/@naman73598
 [![An image of @naman73598's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naman73598)](https://holopin.io/@naman73598)
+<br>
+<br>
 
-<!--Check out my Microsoft certifications-->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="613ecf45-0781-446e-9945-f9aac2095a59" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+Check out my Microsoft Certifications <!--Check out my Microsoft certifications--><a href="https://www.credly.com/badges/613ecf45-0781-446e-9945-f9aac2095a59/public_url">Click to View</a>
 <p style="display:block;" align="center">
-    <img align="center" src="https://github.com/Naman73598/Naman73598/blob/main/assets/microsoft-certified-security-compliance-and-identity-fundamentals.png?raw=true" alt="Check out my Microsoft Certifications" width="100%"/>
+    <img align="center" src="https://github.com/Naman73598/Naman73598/blob/main/assets/microsoft-certified-security-compliance-and-identity-fundamentals.png?raw=true" alt=" Check out my Microsoft Certifications" width="30%"/>
 
-    <a href="https://www.credly.com/badges/613ecf45-0781-446e-9945-f9aac2095a59/public_url">Click to View</a>
 </p>
 
-
-
-https://www.credly.com/badges/613ecf45-0781-446e-9945-f9aac2095a59/public_url
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
