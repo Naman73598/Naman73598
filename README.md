@@ -106,11 +106,7 @@ Check out my Databricks Certifications <!--Check out my Databricks Certification
   [![](https://visitcount.itsvg.in/api?id=Naman73598&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <br>
 
 
