@@ -72,6 +72,13 @@ Check out my Microsoft Certifications <!--Check out my Microsoft certifications-
     <img align="center" src="https://github.com/Naman73598/Naman73598/blob/main/assets/microsoft-certified-security-compliance-and-identity-fundamentals.png?raw=true" alt=" Check out my Microsoft Certifications" width="30%"/>
 
 </p>
+Check out my Databricks Certifications <!--Check out my Databricks Certifications--><a href="https://credentials.databricks.com/9c7ef473-d465-48d2-8c7f-1cb8b83ec2a1">Click to View</a>
+<p style="display:block;" align="center">
+    <img align="center" src="https://github.com/Naman73598/Naman73598/blob/main/assets/16dc6587-2440-42ba-bea4-62608d5cf8d5.png?raw=true" alt=" Check out my Databricks Certifications" width="30%"/>
+
+</p>
+
+
 
 
 <!-- Connect with me -->
