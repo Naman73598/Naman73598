@@ -6,10 +6,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***Focused***😉 <br>
-✔ I’m currently Developing **ML projects**  @VITVellore<br>
-✔ I’m currently learning  **MongoDb**, **NodeJS**, **ML** & **Tableau**<br>
+✔ I’m currently Developing **ML projects** <br>
+✔ I’m currently learning  **Python**, **Cloud**, **Power BI** & **Tableau**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**...<br>
-✔ I’m looking for help for learning **DevOps**...<br>
+✔ I’m looking for help for learning **Big data**...<br>
 ✔ Reach me : [`Click To Mail!`](mailto:nagrahari31@gmail.com) or copy **`nagrahari31@gmail.com`**<br>
 ✔ Fun fact : **You only know that part of me, I want you to know** <br><br>
 
